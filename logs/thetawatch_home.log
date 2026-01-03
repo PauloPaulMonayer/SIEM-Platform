@@ -1,0 +1,84 @@
+2026-01-03 21:27:27,271 - __main__ - ERROR - Failed to load config: 'charmap' codec can't decode byte 0x9c in position 311: character maps to <undefined>
+2026-01-03 21:27:27,285 - __main__ - INFO - Using default configuration...
+2026-01-03 21:27:27,292 - __main__ - INFO - ======================================================================
+2026-01-03 21:27:27,522 - __main__ - INFO - ======================================================================
+2026-01-03 21:27:27,523 - __main__ - INFO - Initializing components...
+2026-01-03 21:27:27,547 - scanners.network_scanner - INFO - No known devices file found, starting fresh
+2026-01-03 21:27:27,670 - __main__ - INFO - ======================================================================
+2026-01-03 21:27:27,739 - __main__ - INFO - ======================================================================
+2026-01-03 21:27:27,755 - __main__ - INFO - Starting Network Scan...
+2026-01-03 21:27:27,755 - __main__ - INFO - ======================================================================
+2026-01-03 21:27:27,757 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:27:27,758 - scanners.network_scanner - INFO - Starting Full Network Scan
+2026-01-03 21:27:27,758 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:27:27,759 - scanners.network_scanner - INFO - Starting ping sweep on 192.168.1.0/24
+2026-01-03 21:27:30,938 - scanners.network_scanner - INFO - Ping sweep complete: 0 active devices
+2026-01-03 21:27:30,938 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:27:30,938 - scanners.network_scanner - INFO - Network Scan Complete: 0 devices found
+2026-01-03 21:27:30,938 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:27:30,938 - __main__ - INFO - 
+======================================================================
+2026-01-03 21:27:30,940 - __main__ - INFO - ======================================================================
+2026-01-03 21:27:30,940 - __main__ - INFO - ThetaWatch Home SIEM session ended
+2026-01-03 21:27:30,940 - __main__ - INFO - Logs saved to: logs/thetawatch_home.log
+2026-01-03 21:27:30,940 - __main__ - INFO - ======================================================================
+
+2026-01-03 21:31:56,804 - __main__ - ERROR - Failed to load config: 'charmap' codec can't decode byte 0x9c in position 311: character maps to <undefined>
+2026-01-03 21:31:56,804 - __main__ - INFO - Using default configuration...
+2026-01-03 21:31:56,804 - __main__ - INFO - ======================================================================
+2026-01-03 21:31:56,804 - __main__ - INFO - ThetaWatch Home SIEM v1.0
+2026-01-03 21:31:56,804 - __main__ - INFO - ======================================================================
+2026-01-03 21:31:56,804 - __main__ - INFO - Initializing components...
+2026-01-03 21:31:56,804 - __main__ - INFO - Creating Network Scanner...
+2026-01-03 21:31:56,804 - scanners.network_scanner - INFO - No known devices file found, starting fresh
+2026-01-03 21:31:56,806 - __main__ - INFO - Network Scanner ready (monitoring 192.168.1.0/24)
+2026-01-03 21:31:56,806 - __main__ - INFO - Telegram alerts disabled in config
+2026-01-03 21:31:56,806 - __main__ - INFO - ======================================================================
+2026-01-03 21:31:56,806 - __main__ - INFO - All components initialized successfully!
+2026-01-03 21:31:56,806 - __main__ - INFO - ======================================================================
+2026-01-03 21:31:56,807 - __main__ - INFO - 
+======================================================================
+2026-01-03 21:31:56,807 - __main__ - INFO - Starting Network Scan...
+2026-01-03 21:31:56,807 - __main__ - INFO - ======================================================================
+2026-01-03 21:31:56,807 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:31:56,807 - scanners.network_scanner - INFO - Starting Full Network Scan
+2026-01-03 21:31:56,807 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:31:56,808 - scanners.network_scanner - INFO - Starting ping sweep on 192.168.1.0/24
+2026-01-03 21:35:58,753 - scanners.network_scanner - INFO - Ping sweep complete: 12 active devices
+2026-01-03 21:36:53,611 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:36:53,612 - scanners.network_scanner - INFO - Network Scan Complete: 12 devices found
+2026-01-03 21:36:53,613 - scanners.network_scanner - INFO - ======================================================================
+2026-01-03 21:36:53,619 - __main__ - WARNING - 
+NEW DEVICE(S) FOUND: 12
+2026-01-03 21:38:52,787 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,788 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,789 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,789 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,790 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,790 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,791 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,791 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,792 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,792 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,792 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,794 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,794 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,794 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,795 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,795 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,796 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,796 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,796 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,796 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,797 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,798 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,798 - scanners.network_scanner - INFO - Saved 1 known devices
+2026-01-03 21:38:52,798 - scanners.network_scanner - INFO - Added 00-AA-00-62-C6-09 to known devices
+2026-01-03 21:38:52,800 - __main__ - INFO - 
+======================================================================
+2026-01-03 21:38:52,802 - __main__ - INFO - SESSION SUMMARY
+2026-01-03 21:38:52,802 - __main__ - INFO - ======================================================================
+2026-01-03 21:38:52,802 - __main__ - INFO - ThetaWatch Home SIEM session ended
+2026-01-03 21:38:52,802 - __main__ - INFO - Logs saved to: logs/thetawatch_home.log
+2026-01-03 21:38:52,802 - __main__ - INFO - ======================================================================
+
